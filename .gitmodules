@@ -1,0 +1,6 @@
+[submodule "Lumosity"]
+	path = Lumosity
+	url = https://github.com/FamousPrivateBeta/Lumosity.git
+[submodule "Breezi"]
+	path = Breezi
+	url = https://github.com/FamousPrivateBeta/Breezi.git
